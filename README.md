@@ -15,7 +15,7 @@ I'm a passionate full-stack developer with expertise in building responsive, use
 ## 💼 Technical Skills
 
 ### Frontend Development
-- **Frameworks & Libraries**: React.js, Next.js
+- **Frameworks & Libraries**: React.js, Next.js ,Nestjs ,Laravel
 - **Languages**: JavaScript, TypeScript
 - **Styling & Responsive Design**: CSS, Flexbox, Grid, Responsive Design
 - **Tools**: Postman, Swagger
