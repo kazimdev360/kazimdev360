@@ -14,7 +14,9 @@ I'm a passionate full-stack developer with expertise in building responsive, use
 
 ## 💼 Technical Skills
 
-**Frontend**: React.js, Next.js, JavaScript, TypeScript, CSS, Flexbox, Grid, Responsive Design | **Backend**: Node.js, Nest.js, Laravel, Python, PHP, RESTful APIs, Microservices, Payload CMS | **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Swagger, VS Code, Docker, Webpack
+**Frontend**: React.js, Next.js, JavaScript, TypeScript, CSS, Flexbox, Grid, Responsive Design 
+**Backend**: Node.js, Nest.js, Laravel, Python, PHP, RESTful APIs, Microservices, Payload CMS 
+**Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Swagger, VS Code, Docker, Webpack
 
 ## 🎯 Core Competencies
 
@@ -26,7 +28,7 @@ I'm a passionate full-stack developer with expertise in building responsive, use
 - Backend Architecture & Scalability
 - CI/CD Pipeline Implementation
 - Agile Development Methodologies
-
+<!--
 ## 🏆 Projects
 
 I've built various projects showcasing my full-stack capabilities:
@@ -36,7 +38,7 @@ I've built various projects showcasing my full-stack capabilities:
 - Responsive and accessible UI components
 - Full-featured CMS implementations with Payload CMS
 - Deployed and maintained production applications on Netlify and Vercel
-
+-->
 ## 📫 Get In Touch
 
 I'm always open to discussing new projects, interesting opportunities, or collaborating on web development initiatives.
