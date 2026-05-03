@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Building scalable web applications with modern technologies
 
-I'm a passionate full-stack developer with expertise in building responsive, user-centric web applications. I specialize in both frontend and backend development, with a strong focus on clean code, best practices, and delivering high-quality solutions.
+I'm a passionate full-stack developer with expertise in building responsive, user-centric web applications. I specialize in both frontend and backend development, with a strong focus on clean code, performance, and scalability.
 
 ## 🚀 About Me
 
@@ -14,23 +14,7 @@ I'm a passionate full-stack developer with expertise in building responsive, use
 
 ## 💼 Technical Skills
 
-### Frontend Development
-- **Frameworks & Libraries**: React.js, Next.js ,Nestjs ,Laravel
-- **Languages**: JavaScript, TypeScript
-- **Styling & Responsive Design**: CSS, Flexbox, Grid, Responsive Design
-- **Tools**: Postman, Swagger
-
-### Backend Development
-- **Frameworks**: Node.js, Nest.js, Laravel
-- **Languages**: JavaScript, TypeScript, Python, PHP
-- **CMS**: Payload CMS
-- **API Development**: RESTful APIs, Microservices
-
-### Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Deployment & Hosting**: Netlify, Vercel
-- **API Documentation**: Postman, Swagger
-- **Development**: VS Code, Docker, Webpack
+**Frontend**: React.js, Next.js, JavaScript, TypeScript, CSS, Flexbox, Grid, Responsive Design | **Backend**: Node.js, Nest.js, Laravel, Python, PHP, RESTful APIs, Microservices, Payload CMS | **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Swagger, VS Code, Docker, Webpack
 
 ## 🎯 Core Competencies
 
