@@ -27,7 +27,6 @@ I'm a passionate full-stack developer with expertise in building responsive, use
 - Frontend Performance Optimization
 - Backend Architecture & Scalability
 - CI/CD Pipeline Implementation
-- Agile Development Methodologies
 <!--
 ## 🏆 Projects
 
