@@ -14,8 +14,8 @@ I'm a passionate full-stack developer with expertise in building responsive, use
 
 ## 💼 Technical Skills
 
-**Frontend**: React.js, Next.js, JavaScript, TypeScript, CSS, Flexbox, Grid, Responsive Design 
-**Backend**: Node.js, Nest.js, Laravel, Python, PHP, RESTful APIs, Microservices, Payload CMS 
+**Frontend**: React.js, Next.js, JavaScript, TypeScript, CSS, Flexbox, Grid, Responsive Design </br>
+**Backend**: Node.js, Nest.js, Laravel, Python, PHP, RESTful APIs, Microservices, Payload CMS </br>
 **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Swagger, VS Code, Docker, Webpack
 
 ## 🎯 Core Competencies
